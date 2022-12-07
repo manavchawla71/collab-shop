@@ -9,9 +9,9 @@ Let us break the traditional myths of e-commerce shopping and bring togetherness
 Collaborative online shopping. This term refers to an activity in which a consumer shops at an eCommerce
 platform with remotely located shopping partners such as friends or family. This brings the best of both the
 shopping worlds together.
-## Demo 
-https://www.youtube.com/watch?v=T1IzSwN8VYI
-##
+
+
+
 
 ## How to Use: 
 If a user wants to initiate a discussion, then he/she will have to click on – “Join the Room” button and
@@ -20,9 +20,9 @@ can discuss among the members of the group meet.
 User can toggle audio, video, send the link of product via chat and share myntra page screen. User's friend can easly click on that link to open the product on which User wants to discuss and share their valuable feedback on the product.
 user can open the product from chat room by just clicking on the link or user can see the product on the frame present inside the chat room.
 
-![alt text](Video_call_ss.png)
 
-![alt text](Cart_ss.png)
+
+
 ## Dependency 
 myntra can add a button on tha page by the name collobrate so that once user click on that they can divert to the given page that we have built. 
 myntra Can add a button similar to add to cart by the name of move to discussion then link can autometically send to the chat room we can't able to add this feature because we dont have access of myntra page source code. 
